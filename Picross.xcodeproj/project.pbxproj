@@ -1,0 +1,580 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		837C956C147911C500C8802D /* PicrossView.m in Sources */ = {isa = PBXBuildFile; fileRef = 838A1904146B41CD0054D68F /* PicrossView.m */; };
+		837C956D147911C700C8802D /* PicrossAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* PicrossAppDelegate.m */; };
+		837DD4A5147AD6CF00F176FC /* LibDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 837DD4A4147AD6CF00F176FC /* LibDrawing.m */; };
+		837F0EB2148BEDF0009FFE3F /* PicrossVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = 837F0EB1148BEDF0009FFE3F /* PicrossVersion.m */; };
+		83809592148463F30029CA25 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 83809591148463F30029CA25 /* 3.png */; };
+		8380CA101482A5B200D4065F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8380CA0E1482A5B200D4065F /* 1.png */; };
+		8380CA111482A5B200D4065F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8380CA0F1482A5B200D4065F /* 2.png */; };
+		8380CA4E1482A98500D4065F /* LibUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 8380CA4D1482A98500D4065F /* LibUtil.m */; };
+		8380CB931482BA7C00D4065F /* PicrossLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8380CB921482BA7C00D4065F /* PicrossLevel.m */; };
+		838172561485A0D7001CA24D /* LibMath.m in Sources */ = {isa = PBXBuildFile; fileRef = 838172551485A0D7001CA24D /* LibMath.m */; };
+		83819B7E14901721001EAFF2 /* LibKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 83819B7D14901721001EAFF2 /* LibKey.m */; };
+		83819C54149024F1001EAFF2 /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 83819C53149024F1001EAFF2 /* 14.png */; };
+		8382688814913B3800B39E73 /* LibDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = 8382688714913B3800B39E73 /* LibDialog.m */; };
+		8382A323147EB9FA00807E9A /* LibIO.m in Sources */ = {isa = PBXBuildFile; fileRef = 8382A322147EB9FA00807E9A /* LibIO.m */; };
+		83831B05148D6B76007E970F /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831AFB148D6B76007E970F /* 4.png */; };
+		83831B06148D6B76007E970F /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831AFC148D6B76007E970F /* 5.png */; };
+		83831B07148D6B76007E970F /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831AFD148D6B76007E970F /* 6.png */; };
+		83831B08148D6B76007E970F /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831AFE148D6B76007E970F /* 7.png */; };
+		83831B09148D6B76007E970F /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831AFF148D6B76007E970F /* 8.png */; };
+		83831B0A148D6B76007E970F /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831B00148D6B76007E970F /* 9.png */; };
+		83831B0B148D6B76007E970F /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831B01148D6B76007E970F /* 10.png */; };
+		83831B0C148D6B76007E970F /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831B02148D6B76007E970F /* 11.png */; };
+		83831B0D148D6B76007E970F /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831B03148D6B76007E970F /* 12.png */; };
+		83831B0E148D6B76007E970F /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 83831B04148D6B76007E970F /* 13.png */; };
+		83831B2E148D6C17007E970F /* LibSliver.m in Sources */ = {isa = PBXBuildFile; fileRef = 83831B2D148D6C17007E970F /* LibSliver.m */; };
+		83831BD4148D8127007E970F /* LibSliverParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 83831BD3148D8127007E970F /* LibSliverParticle.m */; };
+		8383A26F1482E78A0058A3DE /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 8383A26E1482E78A0058A3DE /* 0.png */; };
+		8383A2F31482EE0F0058A3DE /* PicrossMainMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 8383A2F21482EE0F0058A3DE /* PicrossMainMenu.m */; };
+		8383A3731482F4B50058A3DE /* PicrossGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 8383A3721482F4B50058A3DE /* PicrossGame.m */; };
+		83865DAF147EFFB300AFC5F2 /* LibThread.m in Sources */ = {isa = PBXBuildFile; fileRef = 83865DAE147EFFB300AFC5F2 /* LibThread.m */; };
+		838D0051147C5CBD00924A00 /* LibDebug.m in Sources */ = {isa = PBXBuildFile; fileRef = 838D0050147C5CBD00924A00 /* LibDebug.m */; };
+		838D3B40149280C700468544 /* bg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 838D3B3F149280C700468544 /* bg.mp3 */; };
+		838D3B481492819700468544 /* LibSound.m in Sources */ = {isa = PBXBuildFile; fileRef = 838D3B471492819700468544 /* LibSound.m */; };
+		83915BC31494AC6D0049A324 /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 83915BC11494AC6D0049A324 /* 17.png */; };
+		83915BC41494AC6D0049A324 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 83915BC21494AC6D0049A324 /* 16.png */; };
+		83922F3A14941D4B00B8E2C6 /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 83922F3914941D4B00B8E2C6 /* 15.png */; };
+		8393F61A1482788700A6B281 /* Picross.m in Sources */ = {isa = PBXBuildFile; fileRef = 8393F6191482788700A6B281 /* Picross.m */; };
+		8393F62C1482795F00A6B281 /* PicrossState.m in Sources */ = {isa = PBXBuildFile; fileRef = 8393F62B1482795F00A6B281 /* PicrossState.m */; };
+		8393F68314827F7600A6B281 /* PicrossResources.m in Sources */ = {isa = PBXBuildFile; fileRef = 8393F68214827F7600A6B281 /* PicrossResources.m */; };
+		8399EA351483FCF600429809 /* PicrossSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 8399EA341483FCF600429809 /* PicrossSettings.m */; };
+		8399EBDE14840F8B00429809 /* LibKeySystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 8399EBDD14840F8B00429809 /* LibKeySystem.m */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		1DDD58150DA1D0A300B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		256AC3D80F4B6AC300CF3369 /* PicrossAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossAppDelegate.h; sourceTree = "<group>"; };
+		256AC3D90F4B6AC300CF3369 /* PicrossAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossAppDelegate.m; sourceTree = "<group>"; };
+		256AC3F00F4B6AF500CF3369 /* Picross_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Picross_Prefix.pch; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		837DD4A3147AD6CF00F176FC /* LibDrawing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibDrawing.h; sourceTree = "<group>"; };
+		837DD4A4147AD6CF00F176FC /* LibDrawing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibDrawing.m; sourceTree = "<group>"; };
+		837F0EB0148BEDF0009FFE3F /* PicrossVersion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossVersion.h; sourceTree = "<group>"; };
+		837F0EB1148BEDF0009FFE3F /* PicrossVersion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossVersion.m; sourceTree = "<group>"; };
+		83809591148463F30029CA25 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		8380CA0E1482A5B200D4065F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		8380CA0F1482A5B200D4065F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		8380CA4C1482A98500D4065F /* LibUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibUtil.h; sourceTree = "<group>"; };
+		8380CA4D1482A98500D4065F /* LibUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibUtil.m; sourceTree = "<group>"; };
+		8380CB911482BA7C00D4065F /* PicrossLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossLevel.h; sourceTree = "<group>"; };
+		8380CB921482BA7C00D4065F /* PicrossLevel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossLevel.m; sourceTree = "<group>"; };
+		838172541485A0D7001CA24D /* LibMath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibMath.h; sourceTree = "<group>"; };
+		838172551485A0D7001CA24D /* LibMath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibMath.m; sourceTree = "<group>"; };
+		83819B7C14901721001EAFF2 /* LibKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibKey.h; sourceTree = "<group>"; };
+		83819B7D14901721001EAFF2 /* LibKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibKey.m; sourceTree = "<group>"; };
+		83819C53149024F1001EAFF2 /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = SOURCE_ROOT; };
+		8382688614913B3800B39E73 /* LibDialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibDialog.h; sourceTree = "<group>"; };
+		8382688714913B3800B39E73 /* LibDialog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibDialog.m; sourceTree = "<group>"; };
+		8382A321147EB9FA00807E9A /* LibIO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibIO.h; sourceTree = "<group>"; };
+		8382A322147EB9FA00807E9A /* LibIO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibIO.m; sourceTree = "<group>"; };
+		83831AFB148D6B76007E970F /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		83831AFC148D6B76007E970F /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		83831AFD148D6B76007E970F /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		83831AFE148D6B76007E970F /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		83831AFF148D6B76007E970F /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		83831B00148D6B76007E970F /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		83831B01148D6B76007E970F /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		83831B02148D6B76007E970F /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		83831B03148D6B76007E970F /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		83831B04148D6B76007E970F /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13.png; sourceTree = "<group>"; };
+		83831B2C148D6C17007E970F /* LibSliver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibSliver.h; sourceTree = "<group>"; };
+		83831B2D148D6C17007E970F /* LibSliver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibSliver.m; sourceTree = "<group>"; };
+		83831BD2148D8127007E970F /* LibSliverParticle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibSliverParticle.h; sourceTree = "<group>"; };
+		83831BD3148D8127007E970F /* LibSliverParticle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibSliverParticle.m; sourceTree = "<group>"; };
+		8383A26E1482E78A0058A3DE /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		8383A2F11482EE0F0058A3DE /* PicrossMainMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossMainMenu.h; sourceTree = "<group>"; };
+		8383A2F21482EE0F0058A3DE /* PicrossMainMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossMainMenu.m; sourceTree = "<group>"; };
+		8383A3711482F4B50058A3DE /* PicrossGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossGame.h; sourceTree = "<group>"; };
+		8383A3721482F4B50058A3DE /* PicrossGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossGame.m; sourceTree = "<group>"; };
+		83865DAD147EFFB300AFC5F2 /* LibThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibThread.h; sourceTree = "<group>"; };
+		83865DAE147EFFB300AFC5F2 /* LibThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibThread.m; sourceTree = "<group>"; };
+		838A1903146B41CD0054D68F /* PicrossView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossView.h; sourceTree = "<group>"; };
+		838A1904146B41CD0054D68F /* PicrossView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossView.m; sourceTree = "<group>"; };
+		838D004F147C5CBD00924A00 /* LibDebug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibDebug.h; sourceTree = "<group>"; };
+		838D0050147C5CBD00924A00 /* LibDebug.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibDebug.m; sourceTree = "<group>"; };
+		838D3B3F149280C700468544 /* bg.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bg.mp3; sourceTree = "<group>"; };
+		838D3B461492819700468544 /* LibSound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibSound.h; sourceTree = "<group>"; };
+		838D3B471492819700468544 /* LibSound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibSound.m; sourceTree = "<group>"; };
+		83915BC11494AC6D0049A324 /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.png; sourceTree = "<group>"; };
+		83915BC21494AC6D0049A324 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		83922F3914941D4B00B8E2C6 /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.png; sourceTree = "<group>"; };
+		8393F6181482788700A6B281 /* Picross.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Picross.h; sourceTree = "<group>"; };
+		8393F6191482788700A6B281 /* Picross.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Picross.m; sourceTree = "<group>"; };
+		8393F62A1482795F00A6B281 /* PicrossState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossState.h; sourceTree = "<group>"; };
+		8393F62B1482795F00A6B281 /* PicrossState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossState.m; sourceTree = "<group>"; };
+		8393F68114827F7600A6B281 /* PicrossResources.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossResources.h; sourceTree = "<group>"; };
+		8393F68214827F7600A6B281 /* PicrossResources.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossResources.m; sourceTree = "<group>"; };
+		8399EA331483FCF600429809 /* PicrossSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossSettings.h; sourceTree = "<group>"; };
+		8399EA341483FCF600429809 /* PicrossSettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossSettings.m; sourceTree = "<group>"; };
+		8399EBDC14840F8B00429809 /* LibKeySystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibKeySystem.h; sourceTree = "<group>"; };
+		8399EBDD14840F8B00429809 /* LibKeySystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibKeySystem.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Picross-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Picross-Info.plist"; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* Picross.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Picross.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8393F6171482786500A6B281 /* picross */,
+				83865DAA147EFF2E00AFC5F2 /* lib */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* Picross.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* HelloWorld1 */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = HelloWorld1;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				256AC3F00F4B6AF500CF3369 /* Picross_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				838174B2148EDA93000B14D4 /* images */,
+				838174D5148EDAAA000B14D4 /* sounds */,
+				8D1107310486CEB800E47090 /* Picross-Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		838174B2148EDA93000B14D4 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				8383A26E1482E78A0058A3DE /* 0.png */,
+				8380CA0E1482A5B200D4065F /* 1.png */,
+				8380CA0F1482A5B200D4065F /* 2.png */,
+				83809591148463F30029CA25 /* 3.png */,
+				83831AFB148D6B76007E970F /* 4.png */,
+				83831AFC148D6B76007E970F /* 5.png */,
+				83831AFD148D6B76007E970F /* 6.png */,
+				83831AFE148D6B76007E970F /* 7.png */,
+				83831AFF148D6B76007E970F /* 8.png */,
+				83831B00148D6B76007E970F /* 9.png */,
+				83831B01148D6B76007E970F /* 10.png */,
+				83831B02148D6B76007E970F /* 11.png */,
+				83831B03148D6B76007E970F /* 12.png */,
+				83831B04148D6B76007E970F /* 13.png */,
+				83819C53149024F1001EAFF2 /* 14.png */,
+				83922F3914941D4B00B8E2C6 /* 15.png */,
+				83915BC21494AC6D0049A324 /* 16.png */,
+				83915BC11494AC6D0049A324 /* 17.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		838174D5148EDAAA000B14D4 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				838D3B3F149280C700468544 /* bg.mp3 */,
+			);
+			name = sounds;
+			sourceTree = "<group>";
+		};
+		83865DAA147EFF2E00AFC5F2 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				83869D9A14B9B9BC00C10684 /* fx */,
+				838AEB2A148BA696007CEC31 /* io */,
+				838AEB2B148BA6D9007CEC31 /* ui */,
+				838AEB2C148BA6F6007CEC31 /* util */,
+			);
+			name = lib;
+			sourceTree = "<group>";
+		};
+		83869D9A14B9B9BC00C10684 /* fx */ = {
+			isa = PBXGroup;
+			children = (
+				83831B2C148D6C17007E970F /* LibSliver.h */,
+				83831B2D148D6C17007E970F /* LibSliver.m */,
+				83831BD2148D8127007E970F /* LibSliverParticle.h */,
+				83831BD3148D8127007E970F /* LibSliverParticle.m */,
+			);
+			name = fx;
+			sourceTree = "<group>";
+		};
+		838AEB2A148BA696007CEC31 /* io */ = {
+			isa = PBXGroup;
+			children = (
+				8382A321147EB9FA00807E9A /* LibIO.h */,
+				8382A322147EB9FA00807E9A /* LibIO.m */,
+				83819B7C14901721001EAFF2 /* LibKey.h */,
+				83819B7D14901721001EAFF2 /* LibKey.m */,
+				8399EBDC14840F8B00429809 /* LibKeySystem.h */,
+				8399EBDD14840F8B00429809 /* LibKeySystem.m */,
+				838D3B461492819700468544 /* LibSound.h */,
+				838D3B471492819700468544 /* LibSound.m */,
+				83865DAD147EFFB300AFC5F2 /* LibThread.h */,
+				83865DAE147EFFB300AFC5F2 /* LibThread.m */,
+			);
+			name = io;
+			sourceTree = "<group>";
+		};
+		838AEB2B148BA6D9007CEC31 /* ui */ = {
+			isa = PBXGroup;
+			children = (
+				8382688614913B3800B39E73 /* LibDialog.h */,
+				8382688714913B3800B39E73 /* LibDialog.m */,
+				837DD4A3147AD6CF00F176FC /* LibDrawing.h */,
+				837DD4A4147AD6CF00F176FC /* LibDrawing.m */,
+			);
+			name = ui;
+			sourceTree = "<group>";
+		};
+		838AEB2C148BA6F6007CEC31 /* util */ = {
+			isa = PBXGroup;
+			children = (
+				838D004F147C5CBD00924A00 /* LibDebug.h */,
+				838D0050147C5CBD00924A00 /* LibDebug.m */,
+				838172541485A0D7001CA24D /* LibMath.h */,
+				838172551485A0D7001CA24D /* LibMath.m */,
+				8380CA4C1482A98500D4065F /* LibUtil.h */,
+				8380CA4D1482A98500D4065F /* LibUtil.m */,
+			);
+			name = util;
+			sourceTree = "<group>";
+		};
+		8393F6171482786500A6B281 /* picross */ = {
+			isa = PBXGroup;
+			children = (
+				8399EA3A1483FDB600429809 /* io */,
+				8399EA381483FD7E00429809 /* state */,
+				8399EA391483FD9F00429809 /* ui */,
+				8393F6181482788700A6B281 /* Picross.h */,
+				8393F6191482788700A6B281 /* Picross.m */,
+				256AC3D80F4B6AC300CF3369 /* PicrossAppDelegate.h */,
+				256AC3D90F4B6AC300CF3369 /* PicrossAppDelegate.m */,
+				8399EA331483FCF600429809 /* PicrossSettings.h */,
+				8399EA341483FCF600429809 /* PicrossSettings.m */,
+				837F0EB0148BEDF0009FFE3F /* PicrossVersion.h */,
+				837F0EB1148BEDF0009FFE3F /* PicrossVersion.m */,
+			);
+			name = picross;
+			sourceTree = "<group>";
+		};
+		8399EA381483FD7E00429809 /* state */ = {
+			isa = PBXGroup;
+			children = (
+				8380CB911482BA7C00D4065F /* PicrossLevel.h */,
+				8380CB921482BA7C00D4065F /* PicrossLevel.m */,
+				8393F62A1482795F00A6B281 /* PicrossState.h */,
+				8393F62B1482795F00A6B281 /* PicrossState.m */,
+				8383A2F11482EE0F0058A3DE /* PicrossMainMenu.h */,
+				8383A2F21482EE0F0058A3DE /* PicrossMainMenu.m */,
+				8383A3711482F4B50058A3DE /* PicrossGame.h */,
+				8383A3721482F4B50058A3DE /* PicrossGame.m */,
+			);
+			name = state;
+			sourceTree = "<group>";
+		};
+		8399EA391483FD9F00429809 /* ui */ = {
+			isa = PBXGroup;
+			children = (
+				838A1903146B41CD0054D68F /* PicrossView.h */,
+				838A1904146B41CD0054D68F /* PicrossView.m */,
+			);
+			name = ui;
+			sourceTree = "<group>";
+		};
+		8399EA3A1483FDB600429809 /* io */ = {
+			isa = PBXGroup;
+			children = (
+				8393F68114827F7600A6B281 /* PicrossResources.h */,
+				8393F68214827F7600A6B281 /* PicrossResources.m */,
+			);
+			name = io;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* Picross */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Picross" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Picross;
+			productInstallPath = "$(HOME)/Applications";
+			productName = HelloWorld1;
+			productReference = 8D1107320486CEB800E47090 /* Picross.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Picross" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				test1,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* HelloWorld1 */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* Picross */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				8380CA101482A5B200D4065F /* 1.png in Resources */,
+				8380CA111482A5B200D4065F /* 2.png in Resources */,
+				8383A26F1482E78A0058A3DE /* 0.png in Resources */,
+				83809592148463F30029CA25 /* 3.png in Resources */,
+				83831B05148D6B76007E970F /* 4.png in Resources */,
+				83831B06148D6B76007E970F /* 5.png in Resources */,
+				83831B07148D6B76007E970F /* 6.png in Resources */,
+				83831B08148D6B76007E970F /* 7.png in Resources */,
+				83831B09148D6B76007E970F /* 8.png in Resources */,
+				83831B0A148D6B76007E970F /* 9.png in Resources */,
+				83831B0B148D6B76007E970F /* 10.png in Resources */,
+				83831B0C148D6B76007E970F /* 11.png in Resources */,
+				83831B0D148D6B76007E970F /* 12.png in Resources */,
+				83831B0E148D6B76007E970F /* 13.png in Resources */,
+				83819C54149024F1001EAFF2 /* 14.png in Resources */,
+				838D3B40149280C700468544 /* bg.mp3 in Resources */,
+				83922F3A14941D4B00B8E2C6 /* 15.png in Resources */,
+				83915BC31494AC6D0049A324 /* 17.png in Resources */,
+				83915BC41494AC6D0049A324 /* 16.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				837C956C147911C500C8802D /* PicrossView.m in Sources */,
+				837C956D147911C700C8802D /* PicrossAppDelegate.m in Sources */,
+				837DD4A5147AD6CF00F176FC /* LibDrawing.m in Sources */,
+				838D0051147C5CBD00924A00 /* LibDebug.m in Sources */,
+				8382A323147EB9FA00807E9A /* LibIO.m in Sources */,
+				83865DAF147EFFB300AFC5F2 /* LibThread.m in Sources */,
+				8393F61A1482788700A6B281 /* Picross.m in Sources */,
+				8393F62C1482795F00A6B281 /* PicrossState.m in Sources */,
+				8393F68314827F7600A6B281 /* PicrossResources.m in Sources */,
+				8380CA4E1482A98500D4065F /* LibUtil.m in Sources */,
+				8380CB931482BA7C00D4065F /* PicrossLevel.m in Sources */,
+				8383A2F31482EE0F0058A3DE /* PicrossMainMenu.m in Sources */,
+				8383A3731482F4B50058A3DE /* PicrossGame.m in Sources */,
+				8399EA351483FCF600429809 /* PicrossSettings.m in Sources */,
+				8399EBDE14840F8B00429809 /* LibKeySystem.m in Sources */,
+				838172561485A0D7001CA24D /* LibMath.m in Sources */,
+				837F0EB2148BEDF0009FFE3F /* PicrossVersion.m in Sources */,
+				83831B2E148D6C17007E970F /* LibSliver.m in Sources */,
+				83831BD4148D8127007E970F /* LibSliverParticle.m in Sources */,
+				83819B7E14901721001EAFF2 /* LibKey.m in Sources */,
+				8382688814913B3800B39E73 /* LibDialog.m in Sources */,
+				838D3B481492819700468544 /* LibSound.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1DDD58140DA1D0A300B32029 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD58150DA1D0A300B32029 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Picross_Prefix.pch;
+				INFOPLIST_FILE = "Picross-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = Picross;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Picross_Prefix.pch;
+				INFOPLIST_FILE = "Picross-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = Picross;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Picross" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Picross" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

@@ -1,0 +1,13 @@
+/*  $Id:$
+ *  =================================================================
+ */
+
+    /********************************************************************
+    *   Prefix header for all source files of the main target of this project.
+    *   Imports specified here will be set for all source files.
+    ********************************************************************/
+    #ifdef __OBJC__
+    
+        #import <Cocoa/Cocoa.h>
+        
+    #endif

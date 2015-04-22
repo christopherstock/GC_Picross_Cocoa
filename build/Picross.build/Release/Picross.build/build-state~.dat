@@ -1,0 +1,1664 @@
+TPicross
+v7
+r0
+t358428548.496809
+cCheck dependencies
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/chris/Documents/xcode_workspace/Picross/0.png
+c000000004ED2AFF2000000000000FAFC
+t1322430450
+s64252
+
+N/Users/chris/Documents/xcode_workspace/Picross/1.png
+c000000004ED26E060000000000000350
+t1322413574
+s848
+
+N/Users/chris/Documents/xcode_workspace/Picross/10.png
+c000000004EDD330F0000000000000202
+t1323119375
+s514
+
+N/Users/chris/Documents/xcode_workspace/Picross/11.png
+c000000004EDD33150000000000000182
+t1323119381
+s386
+
+N/Users/chris/Documents/xcode_workspace/Picross/12.png
+c000000004EDD331B00000000000001B3
+t1323119387
+s435
+
+N/Users/chris/Documents/xcode_workspace/Picross/13.png
+c000000004EDD3322000000000000013E
+t1323119394
+s318
+
+N/Users/chris/Documents/xcode_workspace/Picross/14.png
+c000000004EDFED570000000000000544
+t1323298135
+s1348
+
+N/Users/chris/Documents/xcode_workspace/Picross/15.png
+c000000004EE3E5A0000000000000007A
+t1323558304
+s122
+
+N/Users/chris/Documents/xcode_workspace/Picross/16.png
+c000000004EE4728B000000000000009B
+t1323594379
+s155
+
+N/Users/chris/Documents/xcode_workspace/Picross/17.png
+c000000004EE4741000000000000000F6
+t1323594768
+s246
+
+N/Users/chris/Documents/xcode_workspace/Picross/2.png
+c000000004ED821940000000000000342
+t1322787220
+s834
+
+N/Users/chris/Documents/xcode_workspace/Picross/3.png
+c000000004ED42C5800000000000BE0B2
+t1322527832
+s778418
+
+N/Users/chris/Documents/xcode_workspace/Picross/4.png
+c000000004EDD32E40000000000000229
+t1323119332
+s553
+
+N/Users/chris/Documents/xcode_workspace/Picross/5.png
+c000000004EDD32ED0000000000000200
+t1323119341
+s512
+
+N/Users/chris/Documents/xcode_workspace/Picross/6.png
+c000000004EDD32F500000000000001A5
+t1323119349
+s421
+
+N/Users/chris/Documents/xcode_workspace/Picross/7.png
+c000000004EDD32FD00000000000001D8
+t1323119357
+s472
+
+N/Users/chris/Documents/xcode_workspace/Picross/8.png
+c000000004EDD33030000000000000165
+t1323119363
+s357
+
+N/Users/chris/Documents/xcode_workspace/Picross/9.png
+c000000004EDD33080000000000000269
+t1323119368
+s617
+
+N/Users/chris/Documents/xcode_workspace/Picross/English.lproj/InfoPlist.strings
+c000000004EBB07F2000000000000002D
+t1320880114
+s45
+
+N/Users/chris/Documents/xcode_workspace/Picross/English.lproj/MainMenu.xib
+c000000004EDBB543000000000002D05E
+t1323021635
+s184414
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibDebug.h
+c000000004EE49AD3000000000000029D
+t1323604691
+s669
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibDebug.m
+c000000004ED0E1F300000000000000E2
+t1322312179
+s226
+i"LibDebug.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibDialog.h
+c000000004EE106960000000000000170
+t1323370134
+s368
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibDialog.m
+c000000004EE1068F00000000000002C6
+t1323370127
+s710
+i"LibDialog.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibDrawing.h
+c000000004EE49AD30000000000000BF9
+t1323604691
+s3065
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m
+c000000004EE47B76000000000000143B
+t1323596662
+s5179
+i"LibDrawing.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibIO.h
+c000000004EE49ABA0000000000000361
+t1323604666
+s865
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibIO.m
+c000000004ED519EE00000000000001C9
+t1322588654
+s457
+i"LibIO.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibKey.h
+c000000004EE349A600000000000001CD
+t1323518374
+s461
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibKey.m
+c000000004EE365B9000000000000038C
+t1323525561
+s908
+i"LibKey.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.h
+c000000004EE34DDB000000000000045F
+t1323519451
+s1119
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m
+c000000004EE34E0C00000000000015ED
+t1323519500
+s5613
+i"LibDebug.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibMath.h
+c000000004EE35DE90000000000000125
+t1323523561
+s293
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibMath.m
+c000000004EE35DE90000000000000220
+t1323523561
+s544
+i"LibMath.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibSliver.h
+c000000004EDFE8230000000000000165
+t1323296803
+s357
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibSliver.m
+c000000004EDFEAF30000000000000698
+t1323297523
+s1688
+i"LibDebug.h"
+i"LibDrawing.h"
+i"LibSliver.h"
+i"LibSliverParticle.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.h
+c000000004EE0FAA20000000000000368
+t1323367074
+s872
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m
+c000000004EE471380000000000000A7E
+t1323594040
+s2686
+i"LibDrawing.h"
+i"LibSliverParticle.h"
+i"LibMath.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibSound.h
+c000000004EE24FD400000000000000CF
+t1323454420
+s207
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibSound.m
+c000000004EE2509A0000000000000173
+t1323454618
+s371
+i"LibSound.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibThread.h
+c000000004EE49AD30000000000000364
+t1323604691
+s868
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibThread.m
+c000000004EE36E9F0000000000000466
+t1323527839
+s1126
+i"PicrossView.h"
+i"Picross.h"
+i"LibDebug.h"
+i"LibThread.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibUtil.h
+c000000004EE49AD30000000000000565
+t1323604691
+s1381
+
+N/Users/chris/Documents/xcode_workspace/Picross/LibUtil.m
+c000000004EE46F2D0000000000000B50
+t1323593517
+s2896
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/Picross.h
+c000000004EE36845000000000000055F
+t1323526213
+s1375
+
+N/Users/chris/Documents/xcode_workspace/Picross/Picross.m
+c000000004EE47F780000000000001B3E
+t1323597688
+s6974
+i"Picross.h"
+i"PicrossGame.h"
+i"PicrossResources.h"
+i"PicrossSettings.h"
+i"PicrossState.h"
+i"PicrossView.h"
+i"LibDebug.h"
+i"LibDialog.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+i"LibSound.h"
+i"LibThread.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.h
+c000000004EDBA14400000000000000FE
+t1323016516
+s254
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m
+c000000004EDBA14400000000000001E9
+t1323016516
+s489
+i"PicrossAppDelegate.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h
+c000000004EE47F2B0000000000000791
+t1323597611
+s1937
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m
+c000000004F12159900000000000057E1
+t1326585241
+s22497
+i"PicrossGame.h"
+i"Picross.h"
+i"PicrossLevel.h"
+i"PicrossSettings.h"
+i"PicrossResources.h"
+i"PicrossState.h"
+i"PicrossView.h"
+i"LibDebug.h"
+i"LibDialog.h"
+i"LibDrawing.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+i"LibMath.h"
+i"LibUtil.h"
+i"LibSliver.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.h
+c000000004EE47C96000000000000041F
+t1323596950
+s1055
+i"PicrossResources.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m
+c000000004EE491950000000000002296
+t1323602325
+s8854
+i"Picross.h"
+i"PicrossGame.h"
+i"PicrossLevel.h"
+i"PicrossResources.h"
+i"PicrossState.h"
+i"LibDebug.h"
+i"LibSliver.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.h
+c000000004EE35DE900000000000002BF
+t1323523561
+s703
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m
+c000000004EE497540000000000002351
+t1323603796
+s9041
+i"PicrossMainMenu.h"
+i"Picross.h"
+i"PicrossResources.h"
+i"PicrossSettings.h"
+i"PicrossState.h"
+i"LibDrawing.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+i"LibMath.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossResources.h
+c000000004EE474CB00000000000003C3
+t1323594955
+s963
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m
+c000000004EE48EF20000000000000325
+t1323601650
+s805
+i"PicrossResources.h"
+i"LibDebug.h"
+i"LibIO.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.h
+c000000004EF61787000000000000054E
+t1324750727
+s1358
+i"LibDrawing.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m
+c000000004EE35DEA00000000000000A4
+t1323523562
+s164
+i"PicrossSettings.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossState.h
+c000000004EE35DEA000000000000035D
+t1323523562
+s861
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossState.m
+c000000004EE48F100000000000000C67
+t1323601680
+s3175
+i"Picross.h"
+i"PicrossState.h"
+i"PicrossMainMenu.h"
+i"PicrossGame.h"
+i"PicrossLevel.h"
+i"PicrossSettings.h"
+i"PicrossView.h"
+i"LibDebug.h"
+i"LibDrawing.h"
+i"LibKeySystem.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.h
+c000000004EE49A7C0000000000000156
+t1323604604
+s342
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m
+c000000004EE49B16000000000000055A
+t1323604758
+s1370
+i"PicrossVersion.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossView.h
+c000000004EE49AD300000000000002DA
+t1323604691
+s730
+
+N/Users/chris/Documents/xcode_workspace/Picross/PicrossView.m
+c000000004F09C7F600000000000005E6
+t1326041078
+s1510
+i"Picross.h"
+i"PicrossView.h"
+i"LibDebug.h"
+
+N/Users/chris/Documents/xcode_workspace/Picross/Picross_Prefix.pch
+c000000004EE35DEA00000000000001C6
+t1323523562
+s454
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Documents/xcode_workspace/Picross/bg.mp3
+c0000000046FBDFB00000000000138D8C
+t1190911920
+s1281420
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDebug.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDialog.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDrawing.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibIO.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibKey.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibKeySystem.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibMath.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliver.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliverParticle.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSound.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibThread.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibUtil.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossAppDelegate.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossGame.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossLevel.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossMainMenu.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossResources.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossSettings.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossState.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossVersion.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossView.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDebug.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDialog.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDrawing.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibIO.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKey.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKeySystem.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibMath.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliver.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliverParticle.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSound.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibThread.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibUtil.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossAppDelegate.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossGame.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossLevel.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossMainMenu.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossResources.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossSettings.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossState.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossVersion.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossView.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app.dSYM
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Info.plist
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/0.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/1.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/10.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/11.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/12.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/13.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/14.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/15.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/16.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/17.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/2.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/3.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/4.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/5.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/6.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/7.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/8.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/9.png
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/bg.mp3
+t2
+s0
+
+N/Users/chris/Documents/xcode_workspace/Picross/main.m
+c000000004EE49A2000000000000003EE
+t1323604512
+s1006
+
+N/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch.gch
+t2
+s0
+
+NPicross-Info.plist
+c000000004EBB07F200000000000003EA
+t1320880114
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358428548#358428548#0(0"0(0#1#0"8604728608#0"0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDebug.o /Users/chris/Documents/xcode_workspace/Picross/LibDebug.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427428.130422
+e358427428.374782
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibDebug.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibDebug.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/chris/Documents/xcode_workspace/Picross/LibDebug.m358427428#358427428#0(0"0(0#0#57"/Users/chris/Documents/xcode_workspace/Picross/LibDebug.m8606504480#1576"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibDebug.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDebug.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDialog.o /Users/chris/Documents/xcode_workspace/Picross/LibDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427430.924515
+e358427431.137387
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibDialog.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/chris/Documents/xcode_workspace/Picross/LibDialog.m358427430#358427431#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/Picross/LibDialog.m8605780640#1578"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibDialog.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDialog.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDrawing.o /Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427428.058990
+e358427428.456989
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibDrawing.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m358427428#358427428#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m8606115872#1580"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibDrawing.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibIO.o /Users/chris/Documents/xcode_workspace/Picross/LibIO.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427428.374906
+e358427428.637581
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibIO.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibIO.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/chris/Documents/xcode_workspace/Picross/LibIO.m358427428#358427428#0(0"0(0#0#54"/Users/chris/Documents/xcode_workspace/Picross/LibIO.m8606337952#1570"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibIO.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibIO.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibKey.o /Users/chris/Documents/xcode_workspace/Picross/LibKey.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427430.892067
+e358427431.159381
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibKey.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibKey.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/chris/Documents/xcode_workspace/Picross/LibKey.m358427430#358427431#0(0"0(0#0#55"/Users/chris/Documents/xcode_workspace/Picross/LibKey.m8606363328#1572"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibKey.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibKey.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibKeySystem.o /Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427429.996554
+e358427430.569890
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibKeySystem.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m358427429#358427430#0(0"0(0#0#61"/Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m8604444096#1584"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibKeySystem.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibMath.o /Users/chris/Documents/xcode_workspace/Picross/LibMath.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427430.044472
+e358427430.375375
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibMath.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibMath.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/chris/Documents/xcode_workspace/Picross/LibMath.m358427430#358427430#0(0"0(0#0#56"/Users/chris/Documents/xcode_workspace/Picross/LibMath.m8603970080#1574"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibMath.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibMath.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliver.o /Users/chris/Documents/xcode_workspace/Picross/LibSliver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427430.570120
+e358427430.891850
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliver.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibSliver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/chris/Documents/xcode_workspace/Picross/LibSliver.m358427430#358427430#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/Picross/LibSliver.m8603486016#1578"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibSliver.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliver.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliverParticle.o /Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427430.697952
+e358427430.924379
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliverParticle.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m358427430#358427430#0(0"0(0#0#66"/Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m8604783456#1594"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSliverParticle.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSound.o /Users/chris/Documents/xcode_workspace/Picross/LibSound.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427431.137636
+e358427431.309635
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibSound.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibSound.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/chris/Documents/xcode_workspace/Picross/LibSound.m358427431#358427431#0(0"0(0#0#57"/Users/chris/Documents/xcode_workspace/Picross/LibSound.m8603898048#1576"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibSound.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibSound.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibThread.o /Users/chris/Documents/xcode_workspace/Picross/LibThread.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427428.457115
+e358427428.690126
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibThread.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibThread.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/chris/Documents/xcode_workspace/Picross/LibThread.m358427428#358427428#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/Picross/LibThread.m8605477536#1578"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibThread.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibThread.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/LibUtil.o /Users/chris/Documents/xcode_workspace/Picross/LibUtil.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427429.261216
+e358427429.478875
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/LibUtil.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/chris/Documents/xcode_workspace/Picross/LibUtil.m358427429#358427429#0(0"0(0#0#56"/Users/chris/Documents/xcode_workspace/Picross/LibUtil.m8604546880#1574"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibUtil.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/LibUtil.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross.o /Users/chris/Documents/xcode_workspace/Picross/Picross.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427428.637709
+e358427429.260999
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/Picross.o
+x/Users/chris/Documents/xcode_workspace/Picross/Picross.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/chris/Documents/xcode_workspace/Picross/Picross.m358427428#358427429#0(0"0(0#0#56"/Users/chris/Documents/xcode_workspace/Picross/Picross.m8603796768#1574"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/Picross.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossAppDelegate.o /Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427427.816443
+e358427428.058862
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossAppDelegate.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m358427427#358427428#0(0"0(0#0#67"/Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m8606522080#1596"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossAppDelegate.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossGame.o /Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427565.090051
+e358427565.235514
+r0
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossGame.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame paint:]':
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:268: warning: conflicting types for '-(void)paint:(CGRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:53: warning: previous declaration of '-(void)paint:(NSRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:285: error: incompatible type for argument 1 of 'drawGamefieldGrid:'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:290: error: incompatible type for argument 1 of 'drawGamefieldTiles:'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:291: error: incompatible type for argument 1 of 'drawNumbers:'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:292: error: incompatible type for argument 1 of 'drawSelector:'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:296: error: incompatible type for argument 1 of 'drawInstructions:'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:299: error: incompatible type for argument 1 of 'drawTime:'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawSelector:]':
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:306: warning: conflicting types for '-(void)drawSelector:(CGRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:55: warning: previous declaration of '-(void)drawSelector:(NSRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawNumbers:]':
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:317: warning: conflicting types for '-(void)drawNumbers:(CGRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:57: warning: previous declaration of '-(void)drawNumbers:(NSRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawGamefieldGrid:]':
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:348: warning: conflicting types for '-(void)drawGamefieldGrid:(CGRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:59: warning: previous declaration of '-(void)drawGamefieldGrid:(NSRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawGamefieldTiles:]':
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:375: warning: conflicting types for '-(void)drawGamefieldTiles:(CGRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:61: warning: previous declaration of '-(void)drawGamefieldTiles:(NSRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawTime:]':
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:433: warning: conflicting types for '-(void)drawTime:(CGRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:63: warning: previous declaration of '-(void)drawTime:(NSRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawInstructions:]':
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:455: warning: conflicting types for '-(void)drawInstructions:(CGRect)canvas'
+o/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:65: warning: previous declaration of '-(void)drawInstructions:(NSRect)canvas'
+lSLF07#2@68"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m358427565#358427565#0(3394"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame paint:]':/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:268: warning: conflicting types for '-(void)paint:(CGRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:53: warning: previous declaration of '-(void)paint:(NSRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:285: error: incompatible type for argument 1 of 'drawGamefieldGrid:'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:290: error: incompatible type for argument 1 of 'drawGamefieldTiles:'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:291: error: incompatible type for argument 1 of 'drawNumbers:'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:292: error: incompatible type for argument 1 of 'drawSelector:'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:296: error: incompatible type for argument 1 of 'drawInstructions:'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:299: error: incompatible type for argument 1 of 'drawTime:'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawSelector:]':/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:306: warning: conflicting types for '-(void)drawSelector:(CGRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:55: warning: previous declaration of '-(void)drawSelector:(NSRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawNumbers:]':/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:317: warning: conflicting types for '-(void)drawNumbers:(CGRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:57: warning: previous declaration of '-(void)drawNumbers:(NSRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawGamefieldGrid:]':/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:348: warning: conflicting types for '-(void)drawGamefieldGrid:(CGRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:59: warning: previous declaration of '-(void)drawGamefieldGrid:(NSRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawGamefieldTiles:]':/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:375: warning: conflicting types for '-(void)drawGamefieldTiles:(CGRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:61: warning: previous declaration of '-(void)drawGamefieldTiles:(NSRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawTime:]':/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:433: warning: conflicting types for '-(void)drawTime:(CGRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:63: warning: previous declaration of '-(void)drawTime:(NSRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m: In function '-[PicrossGame drawInstructions:]':/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m:455: warning: conflicting types for '-(void)drawInstructions:(CGRect)canvas'/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h:65: warning: previous declaration of '-(void)drawInstructions:(NSRect)canvas'20(22@51"Conflicting types for '-(void)paint:(CGRect)canvas'358427565#99#127#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#268#0#268#0#25"conflicting types for '*'0(22@53"Previous declaration of '-(void)paint:(NSRect)canvas'358427565#226#128#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h345290411#53#0#53#0#0"0(4@56"Incompatible type for argument 1 of 'drawGamefieldGrid:'358427565#354#130#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#285#0#285#0#0"0(4@57"Incompatible type for argument 1 of 'drawGamefieldTiles:'358427565#484#131#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#290#0#290#0#0"0(4@50"Incompatible type for argument 1 of 'drawNumbers:'358427565#615#124#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#291#0#291#0#0"0(4@51"Incompatible type for argument 1 of 'drawSelector:'358427565#739#125#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#292#0#292#0#0"0(4@55"Incompatible type for argument 1 of 'drawInstructions:'358427565#864#129#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#296#0#296#0#0"0(4@47"Incompatible type for argument 1 of 'drawTime:'358427565#993#121#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#299#0#299#0#0"0(22@58"Conflicting types for '-(void)drawSelector:(CGRect)canvas'358427565#1220#134#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#306#0#306#0#25"conflicting types for '*'0(22@60"Previous declaration of '-(void)drawSelector:(NSRect)canvas'358427565#1354#135#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h345290411#55#0#55#0#0"0(22@57"Conflicting types for '-(void)drawNumbers:(CGRect)canvas'358427565#1594#133#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#317#0#317#0#25"conflicting types for '*'0(22@59"Previous declaration of '-(void)drawNumbers:(NSRect)canvas'358427565#1727#134#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h345290411#57#0#57#0#0"0(22@63"Conflicting types for '-(void)drawGamefieldGrid:(CGRect)canvas'358427565#1972#139#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#348#0#348#0#25"conflicting types for '*'0(22@65"Previous declaration of '-(void)drawGamefieldGrid:(NSRect)canvas'358427565#2111#140#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h345290411#59#0#59#0#0"0(22@64"Conflicting types for '-(void)drawGamefieldTiles:(CGRect)canvas'358427565#2363#140#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#375#0#375#0#25"conflicting types for '*'0(22@66"Previous declaration of '-(void)drawGamefieldTiles:(NSRect)canvas'358427565#2503#141#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h345290411#61#0#61#0#0"0(22@54"Conflicting types for '-(void)drawTime:(CGRect)canvas'358427565#2746#130#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#433#0#433#0#25"conflicting types for '*'0(22@56"Previous declaration of '-(void)drawTime:(NSRect)canvas'358427565#2876#131#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h345290411#63#0#63#0#0"0(22@62"Conflicting types for '-(void)drawInstructions:(CGRect)canvas'358427565#3117#138#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m348278041#455#0#455#0#25"conflicting types for '*'0(22@64"Previous declaration of '-(void)drawInstructions:(NSRect)canvas'358427565#3255#139#0(6@60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.h345290411#65#0#65#0#0"0(0#0#60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m8598419584#1582"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossGame.o1#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossLevel.o /Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427429.416973
+e358427429.794201
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossLevel.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m358427429#358427429#0(0"0(0#0#61"/Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m8605541664#1584"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossLevel.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossMainMenu.o /Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427429.479003
+e358427429.830467
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossMainMenu.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m358427429#358427429#0(0"0(0#0#64"/Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m8603990944#1590"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossMainMenu.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossResources.o /Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427429.184759
+e358427429.416842
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossResources.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m358427429#358427429#0(0"0(0#0#65"/Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m8603989120#1592"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossResources.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossSettings.o /Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427429.830592
+e358427430.044336
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossSettings.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m358427429#358427430#0(0"0(0#0#64"/Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m8604456480#1590"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossSettings.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossState.o /Users/chris/Documents/xcode_workspace/Picross/PicrossState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427428.690251
+e358427429.184496
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossState.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossState.m358427428#358427429#0(0"0(0#0#61"/Users/chris/Documents/xcode_workspace/Picross/PicrossState.m8604731616#1584"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossState.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossState.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossVersion.o /Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427430.375616
+e358427430.697822
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossVersion.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m358427430#358427430#0(0"0(0#0#63"/Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m8604740096#1588"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossVersion.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossView.o /Users/chris/Documents/xcode_workspace/Picross/PicrossView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427427.712143
+e358427428.130298
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossView.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossView.m358427427#358427428#0(0"0(0#0#60"/Users/chris/Documents/xcode_workspace/Picross/PicrossView.m8607893696#1582"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossView.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/PicrossView.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/i386/main.o /Users/chris/Documents/xcode_workspace/Picross/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427427.511496
+e358427427.712027
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/i386/main.o
+x/Users/chris/Documents/xcode_workspace/Picross/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/chris/Documents/xcode_workspace/Picross/main.m358427427#358427427#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/main.m8607908544#1568"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/main.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDebug.o /Users/chris/Documents/xcode_workspace/Picross/LibDebug.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.181178
+e358427425.340174
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDebug.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibDebug.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/chris/Documents/xcode_workspace/Picross/LibDebug.m358427425#358427425#0(0"0(0#0#57"/Users/chris/Documents/xcode_workspace/Picross/LibDebug.m8604412416#1582"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibDebug.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDebug.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDialog.o /Users/chris/Documents/xcode_workspace/Picross/LibDialog.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427427.294864
+e358427427.511384
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDialog.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibDialog.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/chris/Documents/xcode_workspace/Picross/LibDialog.m358427427#358427427#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/Picross/LibDialog.m8606044096#1584"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibDialog.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDialog.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDrawing.o /Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.007656
+e358427425.251306
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDrawing.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m358427425#358427425#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m8605308768#1586"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibDrawing.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibDrawing.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibIO.o /Users/chris/Documents/xcode_workspace/Picross/LibIO.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.251420
+e358427425.430480
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibIO.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibIO.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/chris/Documents/xcode_workspace/Picross/LibIO.m358427425#358427425#0(0"0(0#0#54"/Users/chris/Documents/xcode_workspace/Picross/LibIO.m8604023744#1576"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibIO.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibIO.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKey.o /Users/chris/Documents/xcode_workspace/Picross/LibKey.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427427.215186
+e358427427.469841
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKey.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibKey.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/chris/Documents/xcode_workspace/Picross/LibKey.m358427427#358427427#0(0"0(0#0#55"/Users/chris/Documents/xcode_workspace/Picross/LibKey.m8602786112#1578"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibKey.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKey.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKeySystem.o /Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427426.429064
+e358427426.701882
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKeySystem.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m358427426#358427426#0(0"0(0#0#61"/Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m8605779648#1590"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibKeySystem.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibKeySystem.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibMath.o /Users/chris/Documents/xcode_workspace/Picross/LibMath.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427426.701984
+e358427426.880119
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibMath.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibMath.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/chris/Documents/xcode_workspace/Picross/LibMath.m358427426#358427426#0(0"0(0#0#56"/Users/chris/Documents/xcode_workspace/Picross/LibMath.m8606241248#1580"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibMath.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibMath.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliver.o /Users/chris/Documents/xcode_workspace/Picross/LibSliver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427426.943419
+e358427427.215072
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliver.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibSliver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/chris/Documents/xcode_workspace/Picross/LibSliver.m358427426#358427427#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/Picross/LibSliver.m8608160672#1584"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibSliver.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliver.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliverParticle.o /Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427427.091589
+e358427427.294756
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliverParticle.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m358427427#358427427#0(0"0(0#0#66"/Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m8608071264#1600"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibSliverParticle.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSliverParticle.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSound.o /Users/chris/Documents/xcode_workspace/Picross/LibSound.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427427.470000
+e358427427.719061
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSound.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibSound.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/chris/Documents/xcode_workspace/Picross/LibSound.m358427427#358427427#0(0"0(0#0#57"/Users/chris/Documents/xcode_workspace/Picross/LibSound.m8608093280#1582"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibSound.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibSound.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibThread.o /Users/chris/Documents/xcode_workspace/Picross/LibThread.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.340291
+e358427425.516757
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibThread.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibThread.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/chris/Documents/xcode_workspace/Picross/LibThread.m358427425#358427425#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/Picross/LibThread.m8605596800#1584"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibThread.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibThread.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibUtil.o /Users/chris/Documents/xcode_workspace/Picross/LibUtil.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.739302
+e358427425.898713
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibUtil.o
+x/Users/chris/Documents/xcode_workspace/Picross/LibUtil.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/chris/Documents/xcode_workspace/Picross/LibUtil.m358427425#358427425#0(0"0(0#0#56"/Users/chris/Documents/xcode_workspace/Picross/LibUtil.m8605399520#1580"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/LibUtil.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/LibUtil.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross.o /Users/chris/Documents/xcode_workspace/Picross/Picross.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.430587
+e358427425.710842
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross.o
+x/Users/chris/Documents/xcode_workspace/Picross/Picross.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/chris/Documents/xcode_workspace/Picross/Picross.m358427425#358427425#0(0"0(0#0#56"/Users/chris/Documents/xcode_workspace/Picross/Picross.m8605363136#1580"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/Picross.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossAppDelegate.o /Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.006485
+e358427425.181072
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossAppDelegate.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m358427425#358427425#0(0"0(0#0#67"/Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m8605452864#1602"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossAppDelegate.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossAppDelegate.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossGame.o /Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427426.173432
+e358427426.943299
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossGame.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m358427426#358427426#0(0"0(0#0#60"/Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m8604433856#1588"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossGame.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossGame.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossLevel.o /Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.898825
+e358427426.216466
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossLevel.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m358427425#358427426#0(0"0(0#0#61"/Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m8605569376#1590"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossLevel.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossLevel.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossMainMenu.o /Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.916166
+e358427426.173308
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossMainMenu.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m358427425#358427426#0(0"0(0#0#64"/Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m8605170560#1596"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossMainMenu.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossMainMenu.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossResources.o /Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.711003
+e358427425.916060
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossResources.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m358427425#358427425#0(0"0(0#0#65"/Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m8606313632#1598"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossResources.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossResources.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossSettings.o /Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427426.216646
+e358427426.428964
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossSettings.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m358427426#358427426#0(0"0(0#0#64"/Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m8604951680#1596"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossSettings.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossSettings.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossState.o /Users/chris/Documents/xcode_workspace/Picross/PicrossState.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427425.516864
+e358427425.739190
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossState.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossState.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossState.m358427425#358427425#0(0"0(0#0#61"/Users/chris/Documents/xcode_workspace/Picross/PicrossState.m8604392384#1590"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossState.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossState.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossVersion.o /Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427426.880217
+e358427427.091489
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossVersion.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m358427426#358427427#0(0"0(0#0#63"/Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m8604710592#1594"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossVersion.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossVersion.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossView.o /Users/chris/Documents/xcode_workspace/Picross/PicrossView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427424.808377
+e358427425.007581
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossView.o
+x/Users/chris/Documents/xcode_workspace/Picross/PicrossView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/chris/Documents/xcode_workspace/Picross/PicrossView.m358427424#358427425#0(0"0(0#0#60"/Users/chris/Documents/xcode_workspace/Picross/PicrossView.m8606540960#1588"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/PicrossView.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/PicrossView.o0#
+
+CCompileC build/Picross.build/Release/Picross.build/Objects-normal/x86_64/main.o /Users/chris/Documents/xcode_workspace/Picross/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427424.806913
+e358427425.006377
+r1
+xCompileC
+xbuild/Picross.build/Release/Picross.build/Objects-normal/x86_64/main.o
+x/Users/chris/Documents/xcode_workspace/Picross/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/chris/Documents/xcode_workspace/Picross/main.m358427424#358427425#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/main.m8604680896#1574"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch -c /Users/chris/Documents/xcode_workspace/Picross/main.m -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/chris/Documents/xcode_workspace/Picross/English.lproj/MainMenu.xib
+s358427416.919833
+e358427417.787461
+r1
+xCompileXIB
+x/Users/chris/Documents/xcode_workspace/Picross/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib358427416#358427417#0(0"0(0#0#73"/Users/chris/Documents/xcode_workspace/Picross/English.lproj/MainMenu.xib8605864736#390"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/English.lproj/MainMenu.nib /Users/chris/Documents/xcode_workspace/Picross/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s358427416.918933
+e358427417.014601
+r1
+xCopyStringsFile
+x/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings358427416#358427417#0(0"0(0#0#78"/Users/chris/Documents/xcode_workspace/Picross/English.lproj/InfoPlist.strings8606541152#383"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/0.png 0.png
+s358427417.016125
+e358427417.071478
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/0.png
+x0.png
+lSLF07#2@10"Copy 0.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/0.png8605397088#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/0.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/1.png 1.png
+s358427417.014700
+e358427417.061209
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/1.png
+x1.png
+lSLF07#2@10"Copy 1.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/1.png8605624768#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/1.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/10.png 10.png
+s358427417.042533
+e358427417.057570
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/10.png
+x10.png
+lSLF07#2@11"Copy 10.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/10.png8603983200#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/10.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/11.png 11.png
+s358427417.044670
+e358427417.061557
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/11.png
+x11.png
+lSLF07#2@11"Copy 11.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/11.png8603803104#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/11.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/12.png 12.png
+s358427417.046807
+e358427417.061328
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/12.png
+x12.png
+lSLF07#2@11"Copy 12.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/12.png8600496960#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/12.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/13.png 13.png
+s358427417.048416
+e358427417.061442
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/13.png
+x13.png
+lSLF07#2@11"Copy 13.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/13.png8600028896#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/13.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/14.png 14.png
+s358427417.050709
+e358427417.059432
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/14.png
+x14.png
+lSLF07#2@11"Copy 14.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/14.png8599662752#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/14.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/15.png 15.png
+s358427417.059500
+e358427417.070205
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/15.png
+x15.png
+lSLF07#2@11"Copy 15.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/15.png8608004928#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/15.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/16.png 16.png
+s358427417.063788
+e358427417.071177
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/16.png
+x16.png
+lSLF07#2@11"Copy 16.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/16.png8606285984#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/16.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/17.png 17.png
+s358427417.061626
+e358427417.070989
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/17.png
+x17.png
+lSLF07#2@11"Copy 17.png358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/17.png8607913472#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/17.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/2.png 2.png
+s358427417.015400
+e358427417.042340
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/2.png
+x2.png
+lSLF07#2@10"Copy 2.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/2.png8605453120#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/2.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/3.png 3.png
+s358427417.017109
+e358427417.159893
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/3.png
+x3.png
+lSLF07#2@10"Copy 3.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/3.png8605324320#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/3.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/4.png 4.png
+s358427417.017847
+e358427417.040276
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/4.png
+x4.png
+lSLF07#2@10"Copy 4.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/4.png8605192160#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/4.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/5.png 5.png
+s358427417.019264
+e358427417.046626
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/5.png
+x5.png
+lSLF07#2@10"Copy 5.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/5.png8605000832#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/5.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/6.png 6.png
+s358427417.019918
+e358427417.050638
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/6.png
+x6.png
+lSLF07#2@10"Copy 6.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/6.png8604847648#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/6.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/7.png 7.png
+s358427417.021585
+e358427417.046746
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/7.png
+x7.png
+lSLF07#2@10"Copy 7.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/7.png8604658528#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/7.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/8.png 8.png
+s358427417.023798
+e358427417.042468
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/8.png
+x8.png
+lSLF07#2@10"Copy 8.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/8.png8604434080#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/8.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/9.png 9.png
+s358427417.040374
+e358427417.066338
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/9.png
+x9.png
+lSLF07#2@10"Copy 9.png358427417#358427417#0(0"0(0#0#52"/Users/chris/Documents/xcode_workspace/Picross/9.png8604163296#382"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/9.png /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCpResource build/Release/Picross.app/Contents/Resources/bg.mp3 bg.mp3
+s358427417.057652
+e358427417.446812
+r1
+xCpResource
+xbuild/Release/Picross.app/Contents/Resources/bg.mp3
+xbg.mp3
+lSLF07#2@11"Copy bg.mp3358427417#358427417#0(0"0(0#0#53"/Users/chris/Documents/xcode_workspace/Picross/bg.mp38598405024#383"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/Picross/bg.mp3 /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross normal "x86_64 i386"
+s347741897.034887
+e347741897.048331
+r1
+xCreateUniversalBinary
+x/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross
+xnormal
+xx86_64 i386
+lSLF07#2@91"CreateUniversalBinary build/Release/Picross.app/Contents/MacOS/Picross normal "x86_64 i386"347741897#347741897#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/Picross/x86_64 i3868614909216#420"    cd /Users/chris/Documents/xcode_workspace/Picross    /usr/bin/lipo -create /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross -output /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross0#
+
+CGenerateDSYMFile /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app.dSYM /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross
+s347741897.048433
+e347741897.101860
+r1
+xGenerateDSYMFile
+x/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app.dSYM
+x/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross
+lSLF07#2@96"GenerateDSYMFile build/Release/Picross.app.dSYM build/Release/Picross.app/Contents/MacOS/Picross347741897#347741897#0(0"0(0#0#95"/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross8603279424#263"    cd /Users/chris/Documents/xcode_workspace/Picross    /Developer/usr/bin/dsymutil /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/MacOS/Picross -o /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app.dSYM0#
+
+CLd /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross normal i386
+s347741896.856290
+e347741897.033938
+r1
+xLd
+x/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross
+xnormal
+xi386
+lSLF07#2@121"Link /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross347741896#347741897#0(0"0(0#0#0"8617248352#607"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chris/Documents/xcode_workspace/Picross/build/Release -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -filelist /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/i386/Picross0#
+
+CLd /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross normal x86_64
+s358427427.719239
+e358427427.816292
+r1
+xLd
+x/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross
+xnormal
+xx86_64
+lSLF07#2@123"Link /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross358427427#358427427#0(0"0(0#0#0"8602684352#613"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chris/Documents/xcode_workspace/Picross/build/Release -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -filelist /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Objects-normal/x86_64/Picross0#
+
+CProcessInfoPlistFile /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Info.plist Picross-Info.plist
+s358427416.847498
+e358427416.918824
+r1
+xProcessInfoPlistFile
+x/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Info.plist
+xPicross-Info.plist
+lSLF07#2@26"Process Picross-Info.plist358427416#358427416#0(0"0(0#0#65"/Users/chris/Documents/xcode_workspace/Picross/Picross-Info.plist8604355776#338"    cd /Users/chris/Documents/xcode_workspace/Picross    builtin-infoPlistUtility Picross-Info.plist -genpkginfo /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch.gch Picross_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s358427417.788587
+e358427424.806629
+r1
+xProcessPCH
+x/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch.gch
+xPicross_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Picross_Prefix.pch358427417#358427424#0(0"0(0#0#65"/Users/chris/Documents/xcode_workspace/Picross/Picross_Prefix.pch8604367712#1466"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -c /Users/chris/Documents/xcode_workspace/Picross/Picross_Prefix.pch -o /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-btsnydxgcejucafzssgnbpburxmz/Picross_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch.gch Picross_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s358427417.787580
+e358427424.688897
+r1
+xProcessPCH
+x/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch.gch
+xPicross_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Picross_Prefix.pch358427417#358427424#0(0"0(0#0#65"/Users/chris/Documents/xcode_workspace/Picross/Picross_Prefix.pch8605330784#1470"    cd /Users/chris/Documents/xcode_workspace/Picross    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/Picross-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/Picross/build/Release -I/Users/chris/Documents/xcode_workspace/Picross/build/Release/include -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources/x86_64 -I/Users/chris/Documents/xcode_workspace/Picross/build/Picross.build/Release/Picross.build/DerivedSources -c /Users/chris/Documents/xcode_workspace/Picross/Picross_Prefix.pch -o /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picross_Prefix-eybjzmyntjkvmkdgvhvxftverteg/Picross_Prefix.pch.gch0#
+
+CTouch /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app
+s347741897.101953
+e347741897.104770
+r1
+xTouch
+x/Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app
+lSLF07#2@78"Touch /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app347741897#347741897#0(0"0(0#0#0"8618565184#149"    cd /Users/chris/Documents/xcode_workspace/Picross    /usr/bin/touch -c /Users/chris/Documents/xcode_workspace/Picross/build/Release/Picross.app0#
+
